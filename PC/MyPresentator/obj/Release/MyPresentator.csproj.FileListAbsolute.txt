@@ -1,0 +1,11 @@
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\bin\Release\MyPresentator.exe
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\bin\Release\MyPresentator.pdb
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\bin\Release\WindowsInput.dll
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\bin\Release\WindowsInput.xml
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.csprojResolveAssemblyReference.cache
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.addKeyForm.resources
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.Form1.resources
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.Properties.Resources.resources
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.csproj.GenerateResource.Cache
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.exe
+D:\ALL\Files\My Projects\MyPresentator\PC\MyPresentator\obj\Release\MyPresentator.pdb
